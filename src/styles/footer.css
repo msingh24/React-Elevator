@@ -1,0 +1,19 @@
+.footer {
+    min-height: 50vh!important;
+    background-color: #173F5F!important;
+    color: white;
+    padding-top: 4%;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.footerTitle {
+    font-size: 2em;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.footerWebsite {
+    padding-top: 2%;
+    font-size: 1.2em;
+}

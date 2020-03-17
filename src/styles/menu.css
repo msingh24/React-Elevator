@@ -1,0 +1,32 @@
+.menu {
+    background-color: #20639B!important;
+    color:white!important;
+    border-radius: 0%!important;
+}
+
+ .link{
+    color:white!important;
+    text-decoration: none!important;
+    font-size: 1.5rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.link:hover{
+    color: #3CAEA3!important;
+    font-weight: 500!important;
+}
+
+.navbar-brand {
+    color:white;
+    text-decoration: none!important;
+    padding: 0rem!important;
+}
+
+.logo {
+    width:200px;
+}
+
+.indiv-links{
+    margin-left:auto;
+}

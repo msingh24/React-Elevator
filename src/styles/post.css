@@ -1,0 +1,25 @@
+.carousel {
+    min-height: 80vh;
+
+}
+.slider{
+    margin: auto!important;
+}
+
+
+.postImg{
+  max-height: 400px;
+}
+.carousel-control-prev-icon, 
+.carousel-control-next-icon {
+   background-color:black!important;
+   padding:10%;
+   border-radius: 100%;
+   border: 20px solid black;
+}
+
+  .carousel-inner img {
+
+    margin: auto!important;
+    width:100%!important;
+}

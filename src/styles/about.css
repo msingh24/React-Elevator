@@ -1,0 +1,24 @@
+.jumbotron {
+ background-position: center;
+ background-size: 100%;
+}
+
+.row {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.textTitle {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.build {
+    font-size: 12px;
+}
+
+.textGraph {
+    font-size: 16px;
+    
+    font-weight: 400;
+}
+
